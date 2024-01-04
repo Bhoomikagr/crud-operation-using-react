@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "pname": "hello",
+      "pprice": "1250",
+      "pqty": "1",
+      "id": 1
+    },
+    {
+      "pname": "",
+      "pprice": "",
+      "pqty": "",
+      "id": 2
+    },
+    {
+      "pname": "ONE PLUS NORD CE 5G",
+      "pprice": "220000",
+      "pqty": "2",
+      "id": 3
+    }
+  ]
+}
